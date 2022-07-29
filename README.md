@@ -1,6 +1,6 @@
 ## Olá eu sou o Gustavo Gogola
 
-Estudando HTML, CSS e Java Script
+Estudando HTML, CSS e Java Script.
 
 <div>
   <a href="https://github.com/GustavoGogola91">
