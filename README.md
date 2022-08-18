@@ -1,6 +1,6 @@
 ## Estudante do ensino médio, otaku, apaixonado por jogos, mangas e animes.
 
-##Estudando HTML, CSS e Java Script.
+Olá eu sou o Gustavo GogolaEstudando HTML, CSS e Java Script.
 
 <div>
   <a href="https://github.com/GustavoGogola91">
