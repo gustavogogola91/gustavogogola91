@@ -2,11 +2,11 @@
 
 <p align="left"> 
   Olá, meu nome é Gustavo.
-  Estudo Engenharia de Software na Universidade Positivo. Trabalho atualmente como técnico de informática na Prefeitura Municipal de Campo Largo
+  Estudo Engenharia de Software na Universidade Positivo.
 </p>
 
 <p align="left">
-  🦄 Linguagens: Java, Python, Javascript
+  🦄 Linguagens: Java, C#
 </p>
 
 <p align="left">
